@@ -1,3 +1,5 @@
+#It is buggy; something going wrong from line 45 and on...
+
 #Importing Modules
 import openpyxl, sys, datetime, smtplib
 from email.mime.text import MIMEText
